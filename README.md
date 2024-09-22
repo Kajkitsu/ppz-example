@@ -54,7 +54,7 @@ Grupą docelową są studenci i pracownicy WAT oraz inne osoby biorące udział 
    - Firebase (autoryzacja, baza danych, powiadomienia).
    - Git (kontrola wersji).
    - PostgreSQL (baza danych).
-   - 
+
 ### 6. Architektura systemu
 
 **Diagram:**
