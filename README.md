@@ -5,6 +5,7 @@
 Prosta i wygodna aplikacja do automatyzacji procesu rejestracji na oddawanie krwi oraz śledzenia postępu kolejki.
 
 ### 2. Skład zespołu
+**Klasa 3e:**
 - **Norbert Waszkowiak**  
 - **Patryk Serafin**  
 - **Michał Zimoń**
